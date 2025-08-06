@@ -84,3 +84,16 @@ Nostr (Notes and Other Stuff Transmitted by Relays) is a simple, open protocol t
 - **UI**: Material Design 3
 - **Theme**: Dark mode with custom color scheme
 - **Architecture**: Organized folder structure for scalability
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach us:
+
+* GitHub: [@dfralan](https://github.com/dfralan)
+* Github: [@fernandolguevara](https://github.com/fernandolguevara)
+
+Feel free to try it!
