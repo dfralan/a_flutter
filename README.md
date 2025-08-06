@@ -93,7 +93,5 @@ This project is licensed under the MIT License.
 
 If you have any questions or feedback, feel free to reach us:
 
-* GitHub: [@dfralan](https://github.com/dfralan)
-* Github: [@fernandolguevara](https://github.com/fernandolguevara)
-
-Feel free to try it!
+[@dfralan](https://github.com/dfralan)
+[@fernandolguevara](https://github.com/fernandolguevara)
