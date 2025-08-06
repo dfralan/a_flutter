@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
 import 'views/welcome_view.dart';
+import 'services/app_coordinator.dart';
 
-void main() {
+void main() async {
+  // Ensure Flutter binding is initialized first
+  WidgetsFlutterBinding.ensureInitialized();
+  
+  // Initialize the app coordinator
+  await AppCoordinator.instance.initialize();
   runApp(const AFlutterApp());
 }
 
